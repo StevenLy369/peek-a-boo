@@ -2,6 +2,7 @@
     display: none;
 }
 
+
 .clickable{
 cursor: pointer;
     color: #0088cc;
@@ -10,3 +11,17 @@ cursor: pointer;
 .clickable:hover {
     text-decoration: underline;
 }
+
+#quokka-showing {
+    display: none;
+}
+
+.clickquok{
+    cursor: pointer;
+        color: #0088cc;
+    }
+    
+.clickquok:hover {
+    text-decoration: underline;
+    }
+    
